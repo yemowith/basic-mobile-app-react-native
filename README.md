@@ -1,4 +1,4 @@
-# YouWay Mobile App
+#  Mobile App
 
 Modern React Native mobil uygulama projesi - Expo Router ve NativeWind (Tailwind CSS) ile geliştirilmiştir.
 
