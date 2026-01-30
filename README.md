@@ -1,4 +1,4 @@
-#  Mobile App
+# Base Mobile App React Native + Tailwind
 
 Modern React Native mobil uygulama projesi - Expo Router ve NativeWind (Tailwind CSS) ile geliştirilmiştir.
 
